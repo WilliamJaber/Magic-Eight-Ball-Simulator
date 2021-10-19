@@ -1,8 +1,8 @@
 # Magic-Eight-Ball-Simulator
 
 <div align="center">
-<img src="![image](https://user-images.githubusercontent.com/90568326/137836124-b703dc66-dc02-4d4e-bb43-593a13950d58.png)
-" wdith="150" height="75" />
+<img src="![image](https://user-images.githubusercontent.com/90568326/137836344-d481a68a-8e17-4c8c-9ca6-96d28cf28d7f.png)
+" wdith="315" height="170" />
 </div>
 
 ## Background Info
