@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="![image](https://user-images.githubusercontent.com/90568326/137836124-b703dc66-dc02-4d4e-bb43-593a13950d58.png)
-" wdith="315" height="170" />
+" wdith="150" height="75" />
 </div>
 
 ## Background Info
