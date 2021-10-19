@@ -1,8 +1,7 @@
 # Magic-Eight-Ball-Simulator
 
 <div align="center">
-<img src="![image](https://user-images.githubusercontent.com/90568326/137836344-d481a68a-8e17-4c8c-9ca6-96d28cf28d7f.png)
-" wdith="315" height="170" />
+<img src="![kisspng-magic-8-ball-clip-art-eight-ball-portable-network-5c3a42caeecdf8 2878651315473220589782](https://user-images.githubusercontent.com/90568326/137836710-11e76203-5139-4a6d-912a-f9449e7d3d5b.png)" wdith="315" height="170" />
 </div>
 
 ## Background Info
