@@ -1,7 +1,7 @@
 # Magic-Eight-Ball-Simulator
 
 <div align="center">
-<img src=" " wdith="315" height="170" />
+<img src="https://content.codecademy.com/courses/learn-cpp/conditionals-and-logic/magic8ball.gif"  />
 </div>
 
 ## Background Info
